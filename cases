@@ -2,3 +2,14 @@
 git 
 awss
 jenkins
+
+
+# we are very happy to use python cases for this file 
+
+sudo yum install jinkin -y
+
+# the next step is to install other applications like 
+
+  sudo yum install nano -y
+
+this would help us bild the fiel better 
