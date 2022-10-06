@@ -1,4 +1,4 @@
- fintech-tool
+  fintech-tool
 git 
 awss
 jenkins
@@ -13,3 +13,9 @@ sudo yum install jinkin -y
   sudo yum install nano -y
 
 this would help us bild the fiel better 
+
+#!bash shell 
+
+sudo yum install nano -y 
+
+ 
